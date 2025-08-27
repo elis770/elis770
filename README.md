@@ -14,10 +14,6 @@
 
 <!--<h3 align="center">A passionate Mobile App developer from Pune, India 🇮🇳</h3>-->
 
-<a target="_blank" align="center">
-  <img align="right" height="300" width="400" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 <br/>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
