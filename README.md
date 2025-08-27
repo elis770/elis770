@@ -1,5 +1,5 @@
 <h1 align='center'>
-  ### Hi, I'm Eliahu Steynberg
+  <b> Hi, I'm Eliahu Steynberg <b/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Hi GIF">
 </h1>
 
